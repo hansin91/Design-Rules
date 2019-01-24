@@ -60,3 +60,22 @@ You can choose color in https://flatuicolors.com/
 ( Icons should be recognizable and label your icons)
 3. Icons should not take a center stage
 4. Use icon fonts whenever possible
+
+## Spacing and Layout
+1. Use whitespace
+- Put whitespace between your elements
+- Put whitespace between your groups of elements
+- Put whitespace between your website's section
+- But don't exaggerate
+2. Define hierarchy. Whitespace describes invisible relationships between the elements of your website
+
+- Define where you want your audience to look first
+- Establish a flow that corresponds to your content's message
+- Use whitespace to build that flow
+
+# Inspirations
+1. Collect design that you like
+2. Try to understand everything about them
+3. Why do they good look ?
+4. What do these sites have in common ?
+5. How were they built in HTML and CSS ?
