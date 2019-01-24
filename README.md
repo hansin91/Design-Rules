@@ -79,3 +79,13 @@ You can choose color in https://flatuicolors.com/
 3. Why do they good look ?
 4. What do these sites have in common ?
 5. How were they built in HTML and CSS ?
+
+# Improve your website's conversion
+1. Build trust with your future customer
+2. Repeat your primary action
+3. Grab your user's attention
+4. Tell your user the benefit
+5. Don't ask for too much information
+6. Use social proof
+7. Use urgency
+8. Use scarcity
