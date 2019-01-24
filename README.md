@@ -24,3 +24,33 @@ You can choose color in https://flatuicolors.com/
 * **Purple** is traditionally associated with power, nobility and wealth. In your design, purple can give a sense of wisdom, royalty, nobility, luxury, and mystery.
 * **Pink** expresses romance, passivity, care, peace, affection, etc.
 * **Brown** is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
+
+## Images
+1. Put text directly on the image
+2. Overlay the image with the color (darker, color gradient, opacity)
+3. Put your text in a box. Box shoud be opaque.
+4. Blur the image
+5. The floor fade
+
+### **Overlay the image**
+```csss
+.darken {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(YOUR IMAGE HERE);
+}
+```
+### **Put text in a box** 
+```
+.text-box {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  display: inline;
+  padding: 10px;
+}
+```
+
+### **Floor fade**
+```
+.floor-fade {
+ background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6) ), url(YOUR IMAGE HERE);
+}
+```
