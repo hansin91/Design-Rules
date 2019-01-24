@@ -54,3 +54,9 @@ You can choose color in https://flatuicolors.com/
  background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6) ), url(YOUR IMAGE HERE);
 }
 ```
+## Icons
+1. Use icons to list features / steps
+2. Use icons for actions and links
+( Icons should be recognizable and label your icons)
+3. Icons should not take a center stage
+4. Use icon fonts whenever possible
